@@ -76,3 +76,4 @@ Day 70: Context Managers.<br>
 Day 71: Regular Expressions Re Module.<br>
 Day 72: Working with APIs.<br>
 Day 73: Virtual Environments & pip.<br>
+Day 74: Logging Module.
