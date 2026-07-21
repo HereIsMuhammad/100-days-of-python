@@ -73,4 +73,5 @@ Day 67: Expense Tracker Project.<br>
 Day 68: Decorators.<br>
 Day 69: Generators & Iterators.<br>
 Day 70: Context Managers.<br>
-Day 71: Regular Expressions Re Module.
+Day 71: Regular Expressions Re Module.<br>
+Day 72: Working with APIs.
