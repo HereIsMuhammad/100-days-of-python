@@ -79,4 +79,27 @@ Day 73: Virtual Environments & pip.<br>
 Day 74: Logging Module.<br>
 Day 75: Multithreading.<br>
 Day 76: Multiprocessing.<br>
-Day 77:
+Day 77: AsyncIO & Asynchronous Programming.<br>
+Day 78: Unit Testing with unittest.<br>
+Day 79: Testing with Pytest.<br>
+Day 80: Web Scraping with BeautifulSoup.<br>
+Day 81: Advanced Web Scraping with Selenium.<br>
+Day 82: Web Scraping Project.<br>
+Day 83: HTTP Basics & Web Framework Concepts.<br>
+Day 84: FastAPI Basics & Routing.<br>
+Day 85: REST API Development.<br>
+Day 86: API Authentication (JWT).<br>
+Day 87: Databases with SQLAlchemy ORM.<br>
+Day 88: FastAPI & Database Integration.<br>
+Day 89: RESTful API Project.<br>
+Day 90: NumPy Basics.<br>
+Day 91: Pandas DataFrames & Series.<br>
+Day 92: Data Cleaning with Pandas.<br>
+Day 93: Data Visualization (Matplotlib & Seaborn).<br>
+Day 94: Python Packaging & Setup.<br>
+Day 95: Code Quality (Linting & Formatting with Black/Ruff).<br>
+Day 96: CI/CD Basics with GitHub Actions.<br>
+Day 97: Capstone Project - Architecture & Setup.<br>
+Day 98: Capstone Project - Backend & Logic.<br>
+Day 99: Capstone Project - Testing & Refactoring.<br>
+Day 100: Capstone Project - Release & Final Polish.<br>
