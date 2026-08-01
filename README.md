@@ -106,4 +106,4 @@ Day 96: CI/CD Basics with GitHub Actions.<br>
 Day 97: Capstone Project - Architecture & Setup.<br>
 Day 98: Capstone Project - Backend & Logic.<br>
 Day 99: Capstone Project - Testing & Refactoring.<br>
-Day 100: Capstone Project - Release & Final Polish.<br
+Day 100: Capstone Project - Release & Final Polish.
