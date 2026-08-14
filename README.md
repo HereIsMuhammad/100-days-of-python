@@ -1,4 +1,8 @@
-# awesomePython [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesomePython 
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
+
 ## Introduction
 This repository is for practicing Python on a daily basis.<br>
 It includes notes, example code, and small projects to improve programming skills.
@@ -72,5 +76,34 @@ Day 66: SQLite Basics.<br>
 Day 67: Expense Tracker Project.<br>
 Day 68: Decorators.<br>
 Day 69: Generators & Iterators.<br>
-Day 70: Context Managers.
-Day 71:
+Day 70: Context Managers.<br>
+Day 71: Regular Expressions Re Module.<br>
+Day 72: Working with APIs.<br>
+Day 73: Virtual Environments & pip.<br>
+Day 74: Logging Module.<br>
+Day 75: Multithreading.<br>
+Day 76: Multiprocessing.<br>
+Day 77: AsyncIO & Asynchronous Programming.<br>
+Day 78: Unit Testing with unittest.<br>
+Day 79: Testing with Pytest.<br>
+Day 80: Web Scraping with BeautifulSoup.<br>
+Day 81: Advanced Web Scraping with Selenium.<br>
+Day 82: Web Scraping Project.<br>
+Day 83: HTTP Basics & Web Framework Concepts.<br>
+Day 84: FastAPI Basics & Routing.<br>
+Day 85: REST API Development.<br>
+Day 86: API Authentication (JWT).<br>
+Day 87: Databases with SQLAlchemy ORM.<br>
+Day 88: FastAPI & Database Integration.<br>
+Day 89: RESTful API Project.<br>
+Day 90: NumPy Basics.<br>
+Day 91: Pandas DataFrames & Series.<br>
+Day 92: Data Cleaning with Pandas.<br>
+Day 93: Data Visualization (Matplotlib & Seaborn).<br>
+Day 94: Python Packaging & Setup.<br>
+Day 95: Code Quality (Linting & Formatting with Black/Ruff).<br>
+Day 96: CI/CD Basics with GitHub Actions.<br>
+Day 97: Capstone Project - Architecture & Setup.<br>
+Day 98: Capstone Project - Backend & Logic.<br>
+Day 99: Capstone Project - Testing & Refactoring.<br>
+Day 100: Capstone Project - Release & Final Polish.
