@@ -1,5 +1,5 @@
-<div align="center">
-
+<div align="center"> 
+  
 # 🐍 100 Days Of Python
 
 ### A daily journey from Python basics to full stack, tested, production ready projects.
