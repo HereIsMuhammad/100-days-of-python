@@ -8,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Progress](https://img.shields.io/badge/Progress-100%2F100%20Days-success?style=for-the-badge)](#-days)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#-days)
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)](#-introduction)
+[![100DaysOfCode](https://img.shields.io/badge/%23100DaysOfCode-Challenge-orange?style=for-the-badge)](https://www.100daysofcode.com/)
 
 [![GitHub stars](https://img.shields.io/github/stars/HereIsMuhammad/100-days-of-python?style=for-the-badge&color=yellow)](https://github.com/HereIsMuhammad/100-days-of-python/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HereIsMuhammad/100-days-of-python?style=for-the-badge&color=blue)](https://github.com/HereIsMuhammad/100-days-of-python/network/members)
@@ -15,9 +17,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/HereIsMuhammad/100-days-of-python?style=for-the-badge&color=red)](https://github.com/HereIsMuhammad/100-days-of-python/issues)
 
 [![Last Commit](https://img.shields.io/github/last-commit/HereIsMuhammad/100-days-of-python?style=flat-square)](https://github.com/HereIsMuhammad/100-days-of-python/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/HereIsMuhammad/100-days-of-python?style=flat-square)](https://github.com/HereIsMuhammad/100-days-of-python)
 [![Top Language](https://img.shields.io/github/languages/top/HereIsMuhammad/100-days-of-python?style=flat-square)](https://github.com/HereIsMuhammad/100-days-of-python)
 [![Contributors](https://img.shields.io/github/contributors/HereIsMuhammad/100-days-of-python?style=flat-square)](https://github.com/HereIsMuhammad/100-days-of-python/graphs/contributors)
+[![Code Size](https://img.shields.io/github/languages/code-size/HereIsMuhammad/100-days-of-python?style=flat-square)](https://github.com/HereIsMuhammad/100-days-of-python)
 
 </div>
 
